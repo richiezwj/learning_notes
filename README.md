@@ -1,1 +1,3 @@
-# learning_notes
+# Learning Notes
+
+More content comming soon.
